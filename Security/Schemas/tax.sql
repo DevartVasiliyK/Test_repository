@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [tax] AUTHORIZATION [dbo]
+GO
